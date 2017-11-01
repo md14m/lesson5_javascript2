@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Novemvber 1st, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Mariana Domine)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we learned how to we will be taxed in the future and how much money will be taken out of our incomes.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://md14m.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. An array is a set of data represented by a single variable name.
+2. You must include brackets to modify values in array elements.
+3. if statements are used to execute specific programing code.
 
